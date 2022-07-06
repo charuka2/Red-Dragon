@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is RED DRAGON🔥
 My Creator is Charuka Arambepola😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94715910064'] //Owner number in aive msg
-global.premium = ['+94715910064'] //Owner Number info
-global.ownernomer = '+94715910064' //Owner Number <<<
+global.owner = ['+94719537504'] //Owner number in aive msg
+global.premium = ['+94719537504'] //Owner Number info
+global.ownernomer = '+94719537504' //Owner Number <<<
 
 global.ownername = '😎charuka' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
@@ -35,12 +35,12 @@ global.btnurl = 'https://chat.whatsapp.com/FefsYRTznTi9aOfMGwZjIj' Button's URL
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎Charuka' //Author Name
+global.author = 'Charuka' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '💛' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_Charuka.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
